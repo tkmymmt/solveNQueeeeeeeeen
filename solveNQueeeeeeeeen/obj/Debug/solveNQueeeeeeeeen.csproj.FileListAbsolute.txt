@@ -1,0 +1,16 @@
+C:\Users\180009\Documents\Visual Studio 2013\おみやげプログラム\solveNQueeeeeeeeen\solveNQueeeeeeeeen\bin\Debug\solveNQueeeeeeeeen.exe.config
+C:\Users\180009\Documents\Visual Studio 2013\おみやげプログラム\solveNQueeeeeeeeen\solveNQueeeeeeeeen\bin\Debug\solveNQueeeeeeeeen.exe
+C:\Users\180009\Documents\Visual Studio 2013\おみやげプログラム\solveNQueeeeeeeeen\solveNQueeeeeeeeen\bin\Debug\solveNQueeeeeeeeen.pdb
+C:\Users\180009\Documents\Visual Studio 2013\おみやげプログラム\solveNQueeeeeeeeen\solveNQueeeeeeeeen\obj\Debug\solveNQueeeeeeeeen.csprojResolveAssemblyReference.cache
+C:\Users\180009\Documents\Visual Studio 2013\おみやげプログラム\solveNQueeeeeeeeen\solveNQueeeeeeeeen\obj\Debug\solveNQueeeeeeeeen.exe
+C:\Users\180009\Documents\Visual Studio 2013\おみやげプログラム\solveNQueeeeeeeeen\solveNQueeeeeeeeen\obj\Debug\solveNQueeeeeeeeen.pdb
+E:\おみやげプログラム\solveNQueeeeeeeeen\solveNQueeeeeeeeen\bin\Debug\solveNQueeeeeeeeen.exe.config
+E:\おみやげプログラム\solveNQueeeeeeeeen\solveNQueeeeeeeeen\obj\Debug\solveNQueeeeeeeeen.exe
+E:\おみやげプログラム\solveNQueeeeeeeeen\solveNQueeeeeeeeen\obj\Debug\solveNQueeeeeeeeen.pdb
+I:\おみやげプログラム\solveNQueeeeeeeeen\solveNQueeeeeeeeen\bin\Debug\solveNQueeeeeeeeen.exe.config
+I:\おみやげプログラム\solveNQueeeeeeeeen\solveNQueeeeeeeeen\bin\Debug\solveNQueeeeeeeeen.exe
+I:\おみやげプログラム\solveNQueeeeeeeeen\solveNQueeeeeeeeen\bin\Debug\solveNQueeeeeeeeen.pdb
+I:\おみやげプログラム\solveNQueeeeeeeeen\solveNQueeeeeeeeen\obj\Debug\solveNQueeeeeeeeen.csprojAssemblyReference.cache
+I:\おみやげプログラム\solveNQueeeeeeeeen\solveNQueeeeeeeeen\obj\Debug\solveNQueeeeeeeeen.csproj.CoreCompileInputs.cache
+I:\おみやげプログラム\solveNQueeeeeeeeen\solveNQueeeeeeeeen\obj\Debug\solveNQueeeeeeeeen.exe
+I:\おみやげプログラム\solveNQueeeeeeeeen\solveNQueeeeeeeeen\obj\Debug\solveNQueeeeeeeeen.pdb
